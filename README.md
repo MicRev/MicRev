@@ -21,6 +21,6 @@
 ---
 
 
-![谁不喜欢少女终末旅行](shyojo.jpg)
+<a href="https://www.nicovideo.jp/watch/so32076401"><img src="shyojo.jpg" alt="谁不喜欢少女终末旅行"></img></a>
 
-你看过《少女终末旅行》吗？
+<p align="center">你看过《少女终末旅行》吗？</p>
