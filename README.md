@@ -3,7 +3,7 @@
 ---
 <div>
     <div align="center">
-      <a href="https://github.com/MicRev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicRev&theme=merko&layout=compact" alt="MicRev's github stats" align="right"></a>
+      <a href="https://github.com/MicRev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicRev&theme=merkot&hide_border=true" alt="MicRev's github stats" align="right"></a>
       <br>
     </div>
     <p align="center">
