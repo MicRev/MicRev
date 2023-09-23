@@ -13,10 +13,11 @@
       🌱 Math · Quantum · C++ · Machine Learning 🌱
     </p>
     <p align="center">
-      ✨ All labour rights to be guaranteed. ✨
+      ✨ All labour rights to be guaranteed.  ✨
     </p>
 </div>
 <br>
+<a href="https://996.icu"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="996.icu" />
 
 ---
 
