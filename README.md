@@ -10,7 +10,7 @@
       🔭 Python · Chemistry · Anime · Music 🔭
     </p>
     <p align="center">
-      🌱 Math · Quantum · C++ · Machine Learning 🌱
+      🌱 Math · Quantum · Psychology · C++ · Machine Learning 🌱
     </p>
     <p align="center">
       ✨ All labour rights to be guaranteed.  ✨
