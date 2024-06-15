@@ -13,7 +13,7 @@
       🌱 Math · Quantum · Psychology · C++ · Machine Learning 🌱
     </p>
     <p align="center">
-      ✨ All labour rights to be guaranteed.  ✨
+      ✨ Everyone's most freedom to be strived for.  ✨
     </p>
 </div>
 <br>
